@@ -13,4 +13,4 @@ example: for(int number=1;number<7;number+=2) {
 -----------------------------------------------------------------------------------------            
             
             while and do while loops :
-            
+            completed about while and do while loops
